@@ -1,5 +1,7 @@
-# turing_machine
-It will contain various program and material on turing machine
-There will be one 
-1. terminal base program written in c++ .
-2. A gui base program written with action script 3.
+turing_machine
+==============
+It is a implementation of turing machine in c++ 
+
+1.You can create turing machine by adding nodes and connecting those nodes create path.
+2.You can check the string against the created grammar .
+
